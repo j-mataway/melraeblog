@@ -6,7 +6,7 @@ Blog site created for a local small business who sells crafts online, mostly thr
 
 ## How It's Made:
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![PHP BADGE](https://img.shields.io/static/v1?label=|&message=PHP&color=714cc2d&style=plastic&logo=php)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![PHP BADGE](https://img.shields.io/static/v1?label=|&message=PHP&color=714cc2&style=plastic&logo=php)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 Blog site created using an html template that I had to markup with php to get it to work with wordpress.
 
